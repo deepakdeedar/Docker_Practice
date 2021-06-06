@@ -1,0 +1,19 @@
+Filesystem      Size  Used Avail Use% Mounted on
+udev            3.4G     0  3.4G   0% /dev
+tmpfs           689M  1.9M  687M   1% /run
+/dev/sda5        39G   14G   24G  37% /
+tmpfs           3.4G   20M  3.4G   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           3.4G     0  3.4G   0% /sys/fs/cgroup
+/dev/loop2       52M   52M     0 100% /snap/snap-store/518
+/dev/loop0      219M  219M     0 100% /snap/gnome-3-34-1804/66
+/dev/loop1       65M   65M     0 100% /snap/gtk-common-themes/1514
+/dev/loop4       56M   56M     0 100% /snap/core18/1997
+/dev/loop7       33M   33M     0 100% /snap/snapd/12057
+/dev/loop5       66M   66M     0 100% /snap/gtk-common-themes/1515
+/dev/loop3       33M   33M     0 100% /snap/snapd/11588
+/dev/loop9       27M   27M     0 100% /snap/heroku/4048
+/dev/loop8      100M  100M     0 100% /snap/core/11167
+/dev/loop6       56M   56M     0 100% /snap/core18/2066
+/dev/sda1       511M  4.0K  511M   1% /boot/efi
+tmpfs           689M   28K  689M   1% /run/user/1000
